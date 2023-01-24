@@ -16,7 +16,7 @@ npmi
 
 ## Usage
 to install readme files
-![My Portfolio](/Untitled_%20Jan%2018%2C%202023%2010_56%20PM.webm "My Readme Generator Demo")
+![My Portfolio](/Untitled_%20Jan%2018%2C%202023%2010_56%20PM%20(2).gif "My Readme Generator Demo")
 ## License
 MIT
 
