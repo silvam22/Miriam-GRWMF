@@ -2,7 +2,7 @@
 # Readme Generator
 
 ## Description
-generates readme files using node
+A quality Readme file is very important when creating a project. This command line application allows you to create a readme file based on your input.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,10 +12,12 @@ generates readme files using node
 * [Questions](#questions)
 
 ## Installation
-npmi
+Run npm install, then start the application by running node.js in the command line. Answer the questions that best fit your project. 
 
 ## Usage
-to install readme files
+Node.js, inquirer, series of questions for the you to answer questions about your project.
+
+
 ![My Portfolio](/Untitled_%20Jan%2018%2C%202023%2010_56%20PM%20(2).gif "My Readme Generator Demo")
 ## License
 MIT
